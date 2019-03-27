@@ -20,5 +20,13 @@ let db = {
 			likeCount: 5,
 			commentCount: 2
 		}
+	],
+	comments: [
+		{
+			userHandle: 'user',
+			riftId: 'asdasklhjafh',
+			body: 'no cap',
+			createdAt: '2019-03-24T23:13:16.807Z'
+		}
 	]
 }
